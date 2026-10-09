@@ -1,0 +1,9 @@
+langchain==0.3.26
+flask==3.1.1
+sentence-transformers==4.1.0
+pypdf
+python-dotenv
+langchain-community
+langchain-pinecone
+langchain-openai
+-e .
