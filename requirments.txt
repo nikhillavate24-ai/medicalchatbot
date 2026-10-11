@@ -5,5 +5,5 @@ pypdf
 python-dotenv
 langchain-community
 langchain-pinecone
-langchain-openai
+langchain_openai
 -e .
